@@ -3,3 +3,13 @@ let playlist = {
   pentagon: 'shine',
   exo: 'kokobop'
 }
+
+
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
+
+
+function removeFromPlaylist() {
+  
+}
